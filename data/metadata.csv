@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,TYPE,FORMAT,EXTENTION,DATE,COMPRENSI�N,ORGANIZACI�N,CONTENIDO,LENGUAJE,TOTAL,ID_PRUEBA,ID_ESTUDIANTE
+resumen_andres,"""Jimaai en la tierra del ma�z""",RESUMEN,A MANO,302,20/11/2023,25,25,25,25,100,1001,1050096319
+resumen_sofia,"""El encierro de una peque�a doncella""",RESUMEN,A MANO,304,20/11/2023,20,22,25,25,92,1002,1016719835
+resumen_antonia,"""Jimaai en la tierra del ma�z""",RESUMEN,A MANO,260,21/11/2023,18,18,18,20,74,1003,1014877117
+resumen_miguel,"""Jimaai en la tierra del ma�z""",RESUMEN,A MANO,292,20/11/2023,25,25,22,20,92,1004,1141521779
+resumen_sebastian,"""Jimaai en la tierra del ma�z""",RESUMEN,A MANO,211,21/11/2023,12,15,16,15,58,1005,1188214142
